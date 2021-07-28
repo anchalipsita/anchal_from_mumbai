@@ -1,3 +1,8 @@
+
+// Problem 1
+// 1. Given a website address as a string, extract the domain name. For example, if the website address is // "https://en.wikipedia.org/wiki/Main_Page", then it should return "en.wikipedia.org" as the domain name.
+
+
 package mypack2;
 import java.util.*;
 import java.lang.String;
