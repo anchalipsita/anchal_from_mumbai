@@ -1,1 +1,4 @@
 We are learning git
+
+
+*********** I LEARNED HOW TO PUSH CODE IN GIT ************
